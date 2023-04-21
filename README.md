@@ -1,6 +1,6 @@
 ## Hi I'm Keven <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Dayern Gomez a Web Developer.
+I'm Keven Turvi a Backend Developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Keven-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keven-miguel-turvi-correa-308b05160/)
 
@@ -32,8 +32,6 @@ I'm Dayern Gomez a Web Developer.
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=keven-correa.keven-correa)
-
-
 
 <!-- I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists! -->
 
