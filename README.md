@@ -41,5 +41,5 @@ I'm Keven Turvi a Backend Developer.
 
 #### Github Stats
 
-![keven-correa's github stats](https://github-readme-stats.vercel.app/api?username=keven-correa&count_private=true&theme=tokyonight&hide=contribs,prs)
+![keven-correa's github stats](https://github-readme-stats.vercel.app/api?username=keven-correa&count_private=false&theme=tokyonight&hide=contribs,prs)
 
