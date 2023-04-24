@@ -31,7 +31,7 @@ I'm Keven Turvi a Backend Developer.
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=keven-correa.keven-correa)
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=keven-correa.keven-correa)-->
 
 <!-- I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists! -->
 
